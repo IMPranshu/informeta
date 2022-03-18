@@ -29,7 +29,6 @@ const Navbar = () => {
         <Menu.Item icon={< BulbOutlined />}>
           <Link to="/news">Crypto News</Link>
         </Menu.Item>
-
       </Menu>
     </div>
   );
